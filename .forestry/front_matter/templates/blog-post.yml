@@ -18,3 +18,4 @@ fields:
   label: content
 pages:
 - content/this-is-test.md
+- posts/test.md
