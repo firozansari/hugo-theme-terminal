@@ -1,6 +1,5 @@
 +++
 content = "this is test"
-draft = true
 title = "this is test"
 
 +++
